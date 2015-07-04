@@ -48,8 +48,6 @@ shortcut_table = [
      )
 ]
 
-msi_data = {"Shortcut": shortcut_table}  # This will be part of the 'data' option of bdist_msi
-
 # Now create the table dictionary
 msi_data = {"Shortcut": shortcut_table}
 
